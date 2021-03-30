@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DVI-Splash/static/css/main.e87c6df5.chunk.css",
+    "main.js": "/DVI-Splash/static/js/main.e62f7cb6.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.e62f7cb6.chunk.js.map",
+    "runtime-main.js": "/DVI-Splash/static/js/runtime-main.d5702179.js",
+    "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.d5702179.js.map",
+    "static/js/2.ea6139e4.chunk.js": "/DVI-Splash/static/js/2.ea6139e4.chunk.js",
+    "static/js/2.ea6139e4.chunk.js.map": "/DVI-Splash/static/js/2.ea6139e4.chunk.js.map",
+    "static/js/3.e2fabd35.chunk.js": "/DVI-Splash/static/js/3.e2fabd35.chunk.js",
+    "static/js/3.e2fabd35.chunk.js.map": "/DVI-Splash/static/js/3.e2fabd35.chunk.js.map",
+    "index.html": "/DVI-Splash/index.html",
+    "static/css/main.e87c6df5.chunk.css.map": "/DVI-Splash/static/css/main.e87c6df5.chunk.css.map",
+    "static/js/2.ea6139e4.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.ea6139e4.chunk.js.LICENSE.txt",
+    "static/media/BoyScene1.0757907f.png": "/DVI-Splash/static/media/BoyScene1.0757907f.png",
+    "static/media/BoyScene2_P1.46d9f106.png": "/DVI-Splash/static/media/BoyScene2_P1.46d9f106.png",
+    "static/media/BoyScene2_P2F.e8e14d1f.png": "/DVI-Splash/static/media/BoyScene2_P2F.e8e14d1f.png",
+    "static/media/BoyScene3_P1.d2fb69e1.png": "/DVI-Splash/static/media/BoyScene3_P1.d2fb69e1.png",
+    "static/media/BoyScene3_P2.423a85f5.png": "/DVI-Splash/static/media/BoyScene3_P2.423a85f5.png",
+    "static/media/BoyScene3_P3.a7f67603.png": "/DVI-Splash/static/media/BoyScene3_P3.a7f67603.png",
+    "static/media/BoyScene4_P1.51a26d31.png": "/DVI-Splash/static/media/BoyScene4_P1.51a26d31.png",
+    "static/media/BoyScene4_P2.82f3796c.png": "/DVI-Splash/static/media/BoyScene4_P2.82f3796c.png",
+    "static/media/BoyScene4_P3.5a7fd266.png": "/DVI-Splash/static/media/BoyScene4_P3.5a7fd266.png",
+    "static/media/Scene1.764397b1.png": "/DVI-Splash/static/media/Scene1.764397b1.png",
+    "static/media/Scene2.c6b967d1.png": "/DVI-Splash/static/media/Scene2.c6b967d1.png",
+    "static/media/Scene3.582f6f88.png": "/DVI-Splash/static/media/Scene3.582f6f88.png",
+    "static/media/Scene4.af60f2c3.png": "/DVI-Splash/static/media/Scene4.af60f2c3.png",
+    "static/media/Scene5.7e01e481.png": "/DVI-Splash/static/media/Scene5.7e01e481.png",
+    "static/media/logo.6ce24c58.svg": "/DVI-Splash/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5702179.js",
+    "static/js/2.ea6139e4.chunk.js",
+    "static/css/main.e87c6df5.chunk.css",
+    "static/js/main.e62f7cb6.chunk.js"
+  ]
+}
