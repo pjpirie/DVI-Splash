@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DVI-Splash/static/css/main.e87c6df5.chunk.css",
-    "main.js": "/DVI-Splash/static/js/main.fbd1a231.chunk.js",
-    "main.js.map": "/DVI-Splash/static/js/main.fbd1a231.chunk.js.map",
+    "main.js": "/DVI-Splash/static/js/main.226e87f9.chunk.js",
+    "main.js.map": "/DVI-Splash/static/js/main.226e87f9.chunk.js.map",
     "runtime-main.js": "/DVI-Splash/static/js/runtime-main.d5702179.js",
     "runtime-main.js.map": "/DVI-Splash/static/js/runtime-main.d5702179.js.map",
     "static/js/2.ea6139e4.chunk.js": "/DVI-Splash/static/js/2.ea6139e4.chunk.js",
@@ -12,15 +12,15 @@
     "index.html": "/DVI-Splash/index.html",
     "static/css/main.e87c6df5.chunk.css.map": "/DVI-Splash/static/css/main.e87c6df5.chunk.css.map",
     "static/js/2.ea6139e4.chunk.js.LICENSE.txt": "/DVI-Splash/static/js/2.ea6139e4.chunk.js.LICENSE.txt",
-    "static/media/BoyScene1.0757907f.png": "/DVI-Splash/static/media/BoyScene1.0757907f.png",
-    "static/media/BoyScene2_P1.46d9f106.png": "/DVI-Splash/static/media/BoyScene2_P1.46d9f106.png",
-    "static/media/BoyScene2_P2F.e8e14d1f.png": "/DVI-Splash/static/media/BoyScene2_P2F.e8e14d1f.png",
-    "static/media/BoyScene3_P1.d2fb69e1.png": "/DVI-Splash/static/media/BoyScene3_P1.d2fb69e1.png",
-    "static/media/BoyScene3_P2.423a85f5.png": "/DVI-Splash/static/media/BoyScene3_P2.423a85f5.png",
-    "static/media/BoyScene3_P3.a7f67603.png": "/DVI-Splash/static/media/BoyScene3_P3.a7f67603.png",
-    "static/media/BoyScene4_P1.51a26d31.png": "/DVI-Splash/static/media/BoyScene4_P1.51a26d31.png",
-    "static/media/BoyScene4_P2.82f3796c.png": "/DVI-Splash/static/media/BoyScene4_P2.82f3796c.png",
-    "static/media/BoyScene4_P3.5a7fd266.png": "/DVI-Splash/static/media/BoyScene4_P3.5a7fd266.png",
+    "static/media/BoyScene1.99285572.png": "/DVI-Splash/static/media/BoyScene1.99285572.png",
+    "static/media/BoyScene2_P1.d26986ea.png": "/DVI-Splash/static/media/BoyScene2_P1.d26986ea.png",
+    "static/media/BoyScene2_P2F.01e6fb80.png": "/DVI-Splash/static/media/BoyScene2_P2F.01e6fb80.png",
+    "static/media/BoyScene3_P1.d4279cf5.png": "/DVI-Splash/static/media/BoyScene3_P1.d4279cf5.png",
+    "static/media/BoyScene3_P2.0f39dd92.png": "/DVI-Splash/static/media/BoyScene3_P2.0f39dd92.png",
+    "static/media/BoyScene3_P3.cf03ef6d.png": "/DVI-Splash/static/media/BoyScene3_P3.cf03ef6d.png",
+    "static/media/BoyScene4_P1.7011d33d.png": "/DVI-Splash/static/media/BoyScene4_P1.7011d33d.png",
+    "static/media/BoyScene4_P2.25ff149d.png": "/DVI-Splash/static/media/BoyScene4_P2.25ff149d.png",
+    "static/media/BoyScene4_P3.207d0c17.png": "/DVI-Splash/static/media/BoyScene4_P3.207d0c17.png",
     "static/media/Scene1.764397b1.png": "/DVI-Splash/static/media/Scene1.764397b1.png",
     "static/media/Scene2.c6b967d1.png": "/DVI-Splash/static/media/Scene2.c6b967d1.png",
     "static/media/Scene3.582f6f88.png": "/DVI-Splash/static/media/Scene3.582f6f88.png",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.d5702179.js",
     "static/js/2.ea6139e4.chunk.js",
     "static/css/main.e87c6df5.chunk.css",
-    "static/js/main.fbd1a231.chunk.js"
+    "static/js/main.226e87f9.chunk.js"
   ]
 }
